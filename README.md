@@ -4,6 +4,7 @@
 
 📍 Gurugram, India | 📧 komalmitrapal2005@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/komal-mittrapal-66855b347) | 📱 +91 8851511685
 
+
 # 💫 About Me:
 
 I'm a passionate Data Science student, eager to apply data-driven insights to solve real-world challenges.
@@ -21,6 +22,7 @@ I enjoy exploring data visualization, analytics, and machine learning to uncover
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KomalMittrapal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:komalmitrapal2005@gmail.com) 
+
 
 ## 🛠️ Tech Stack
 
