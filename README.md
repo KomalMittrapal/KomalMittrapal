@@ -20,7 +20,7 @@ I enjoy exploring data visualization, analytics, and machine learning to uncover
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Komal Mittrapal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:komalmitrapal2005@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KomalMittrapal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:komalmitrapal2005@gmail.com) 
 
 ## 🛠️ Tech Stack
 
