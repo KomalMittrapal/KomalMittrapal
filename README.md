@@ -1,5 +1,6 @@
 # Hi there, I'm Komal! 👋
 
+
 🎓 Data Science Student | Excel • Python • SQL • ML • R | Aspiring Data Analyst 📊
 
 📍 Gurugram, India | 📧 komalmitrapal2005@gmail.com | 💼 [LinkedIn](www.linkedin.com/in/komal-mittrapal-66855b347) | 📱 +91 8851511685
@@ -10,6 +11,7 @@
 I'm a passionate Data Science student, eager to apply data-driven insights to solve real-world challenges.
 
 I enjoy exploring data visualization, analytics, and machine learning to uncover hidden patterns and trends.
+
 
 \- 🔭 Currently working on: Sales Data Analysis Dashboard (Power BI)
 
